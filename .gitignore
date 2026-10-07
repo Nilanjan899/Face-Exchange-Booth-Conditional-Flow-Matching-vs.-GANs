@@ -1,0 +1,15 @@
+﻿# Environments & Cache
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local run outputs & uploads
+uploads/*
+!uploads/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# IDE configs
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+torch
+torchvision
+
+numpy
+Pillow>=10.0,<11.0
+
+kornia
+facenet-pytorch
+
+tqdm
+flask
